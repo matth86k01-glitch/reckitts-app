@@ -1,0 +1,20 @@
+{
+  "name": "Reckitts AFC",
+  "short_name": "Reckitts",
+  "start_url": "/#home",
+  "display": "standalone",
+  "background_color": "#0b123f",
+  "theme_color": "#1c33b8",
+  "icons": [
+    {
+      "src": "/icons/reckitts-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/reckitts-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
