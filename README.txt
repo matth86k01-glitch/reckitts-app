@@ -1,2 +1,2 @@
-V30 polished static pack.
-Upload this to GitHub/Netlify to replace the broken stripped-down version.
+V30 updated polished static pack.
+Includes latest result Hull United 3-3 Reckitts AFC and next fixture Hornsea Town vs Reckitts AFC.
