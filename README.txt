@@ -1,8 +1,9 @@
-V27b fixed pack.
+V29 stronger parser pack.
 
 What changed:
-- live-data function now returns explicit badge keys for fixtures, results and table
-- this fixes the duplicate Reckitts badge problem on the auto-update site
+- live-data function now parses the Reckitts AFC team block from Full-Time using line-based extraction
+- latest result, recent results, next fixture, and badge keys are derived from the live source more reliably
+- front end remains unchanged
 
 How to use:
 1. Unzip this pack
